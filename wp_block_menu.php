@@ -4,7 +4,7 @@
 Plugin Name: Manage Reusable Patterns
 Description: This plugin does what WP Devs overlooked: It adds a submenu that lets you easily access the Manage Reusable Patterns page of the Gutenberg editor. Find it in the Appearance menu. This plugin was created for 6.4 Alpha and above.
 Version: 0.01
-Author: Madame A.I.
+Author: WIKKO & Madame A.I.
 */
 
 // Function to add the menu item/sub menu item - you can adjust this here. Replace '_submenu_' with '_menu_' to have the item appear at the top level of the navigation. Only on the top level the icon can be replaced.
